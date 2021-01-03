@@ -45,4 +45,6 @@ b10841e2-3832-4301-989d-4b6a677e7aa1
 {5,0e4d3636-0f17-4253-be42-00e348194987,"Справочник.Карты",6},
 {4,"_$Data$_.Delete",20},
 {5,84250297-45be-432d-9434-f0b0f55680e9,"Справочник.КонтрагентыОбщие",5},
-{4,"_$Transaction$_.Rollback",21}
+{4,"_$Transaction$_.Rollback",21},
+{4,"_$Data$_.PredefinedDataInitialization",22},
+{4,"_$Data$_.DeletePredefinedData",23}

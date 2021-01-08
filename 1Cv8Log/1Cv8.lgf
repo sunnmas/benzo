@@ -47,4 +47,5 @@ b10841e2-3832-4301-989d-4b6a677e7aa1
 {5,84250297-45be-432d-9434-f0b0f55680e9,"Справочник.КонтрагентыОбщие",5},
 {4,"_$Transaction$_.Rollback",21},
 {4,"_$Data$_.PredefinedDataInitialization",22},
-{4,"_$Data$_.DeletePredefinedData",23}
+{4,"_$Data$_.DeletePredefinedData",23},
+{5,5b0db917-3583-4851-b303-1bb26282fd7f,"Документ.ОтчетОПродажах",9}
